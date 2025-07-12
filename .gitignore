@@ -1,0 +1,34 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+.env
+
+# React / Node
+frontend/bechwa-ui/node_modules/
+frontend/bechwa-ui/.env
+
+# VS Code / OS
+*.log
+.DS_Store
+.vscode/
+
+# Docker
+*.pid
+*.db
+*.sock
+*.tar
+*.gz
+*.zip
+*.bak
+*.swp
+
+# Environment/Build
+.env.*
+.env
+build/
+dist/
