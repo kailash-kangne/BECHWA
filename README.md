@@ -12,3 +12,4 @@
 git clone <this-repo>
 cd bechwa
 docker-compose up --build
+
